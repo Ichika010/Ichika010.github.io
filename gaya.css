@@ -1,0 +1,17 @@
+<style type="text/css">
+	h1 {
+		color: red;
+	}
+	button {
+		background: red;
+		color: white;
+	}
+	p {
+		background: yellow;
+		color: red;
+	}
+	p#dua{
+		background: red;
+		color: yellow;
+	}
+</style>
